@@ -1,1 +1,1 @@
-NVS file system implementation for flash driver on the KSC2N
+NVS file system implementation for flash driver on the ESP32
